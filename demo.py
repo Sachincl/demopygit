@@ -4,3 +4,6 @@ c=a+b
 print(c)
 print("this is sachin")
 print("im learning using telusko tutorial")
+
+print("thsijduivsghhvchb")
+print("cklbncjkbd")
